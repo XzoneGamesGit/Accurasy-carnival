@@ -1,7 +1,7 @@
 {
 "companyName": "XzoneGames",
 "productName": "Accurasy Carnival",
-"productVersion": "1",
+"productVersion": "2",
 "dataUrl": "Accurasy Carnival.data.unityweb",
 "wasmCodeUrl": "Accurasy Carnival.wasm.code.unityweb",
 "wasmFrameworkUrl": "Accurasy Carnival.wasm.framework.unityweb",
